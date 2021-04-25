@@ -9,7 +9,7 @@ Chi la volesse provare, può scaricare il vsix presente nel repository e install
 Tramite la Command Palette di Visual Studio Code viene data la possibilità di inserire i caratteri tilde (~) e backtick (`) nella posizione corrente del cursore:
 
 * `Insert tilde (~)`: inserimento tilde
-* `Insert backtick (``)`: inserimento backtick
+* ``Insert backtick (`)``: inserimento backtick
 
 ## Release Notes
 
