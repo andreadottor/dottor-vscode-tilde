@@ -1,7 +1,7 @@
 # Change Log
 
-All notable changes to the "dottor-vscode" extension will be documented in this file.
+All notable changes to the "Tilde (~)" extension will be documented in this file.
 
-## [Unreleased]
+## 0.0.1
 
 - Initial release

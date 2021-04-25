@@ -1,4 +1,4 @@
-# dottor-tilde README
+# Estensione per Visual Studio Code: **Tilde (~)**
 
 Estensione utile per chi ha un layout italiano ed utilizza una tastiera prima di tastierino numerico, e si trova in difficoltà nell'inserire alcuni caratteri speciali.
 

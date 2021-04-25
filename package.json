@@ -1,6 +1,6 @@
 {
   "name": "dottor-tilde",
-  "displayName": "dottor.vs-code.tilde",
+  "displayName": "Tilde (~)",
   "description": "Inserimento di caratteri speciali (tilde, backtick) tramite command di Visual Studio Code",
   "version": "0.0.1",
   "publisher": "dottor",
