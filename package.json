@@ -3,6 +3,7 @@
   "displayName": "dottor.vs-code.tilde",
   "description": "Inserimento di caratteri speciali (tilde, backtick) tramite command di Visual Studio Code",
   "version": "0.0.1",
+  "publisher": "dottor",
   "author": {
     "name": "Andrea Dottor",
     "url": "https://www.dottor.net"
@@ -13,6 +14,9 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "url": "https://github.com/andreadottor/dottor-vscode-tilde"
+  },
   "activationEvents": [
     "onCommand:dottor.tilde.insert",
     "onCommand:dottor.backtick.insert"
